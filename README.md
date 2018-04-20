@@ -1,4 +1,5 @@
 # SIH-2018-User-
+Application for reporting encroachment, pollution or requirement of RRR for water bodies. 
 
 WE MADE TWO APPS AT NATIONAL LEVEL COMPITITION (SIH 2018)
 One For USer and Another For Admin 
