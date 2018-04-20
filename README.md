@@ -18,7 +18,7 @@ App Features:
 * Feedback option for users 
 * Complaint sharing option for user 
 # Demo of User App 
-  <img src="https://github.com/happysingh23828/SIH-2018-User-/blob/master/screenshot/sihuser.gif"></br>
+  <img src="https://github.com/happysingh23828/SIH-2018-User-/blob/master/screenshot/userapp.gif"></br>
 # For Admin App Go here
 <a href="https://github.com/happysingh23828/SIH-2018-Admins-">Admin Github Here</a>
   
